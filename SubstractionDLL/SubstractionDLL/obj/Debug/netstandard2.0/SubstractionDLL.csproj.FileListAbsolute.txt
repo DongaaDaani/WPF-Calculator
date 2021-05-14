@@ -1,0 +1,9 @@
+C:\Users\Donga Dániel\Desktop\Dasch beadando\SubstractionDLL\SubstractionDLL\bin\Debug\netstandard2.0\SubstractionDLL.deps.json
+C:\Users\Donga Dániel\Desktop\Dasch beadando\SubstractionDLL\SubstractionDLL\bin\Debug\netstandard2.0\SubstractionDLL.dll
+C:\Users\Donga Dániel\Desktop\Dasch beadando\SubstractionDLL\SubstractionDLL\bin\Debug\netstandard2.0\SubstractionDLL.pdb
+C:\Users\Donga Dániel\Desktop\Dasch beadando\SubstractionDLL\SubstractionDLL\obj\Debug\netstandard2.0\SubstractionDLL.csprojAssemblyReference.cache
+C:\Users\Donga Dániel\Desktop\Dasch beadando\SubstractionDLL\SubstractionDLL\obj\Debug\netstandard2.0\SubstractionDLL.AssemblyInfoInputs.cache
+C:\Users\Donga Dániel\Desktop\Dasch beadando\SubstractionDLL\SubstractionDLL\obj\Debug\netstandard2.0\SubstractionDLL.AssemblyInfo.cs
+C:\Users\Donga Dániel\Desktop\Dasch beadando\SubstractionDLL\SubstractionDLL\obj\Debug\netstandard2.0\SubstractionDLL.csproj.CoreCompileInputs.cache
+C:\Users\Donga Dániel\Desktop\Dasch beadando\SubstractionDLL\SubstractionDLL\obj\Debug\netstandard2.0\SubstractionDLL.dll
+C:\Users\Donga Dániel\Desktop\Dasch beadando\SubstractionDLL\SubstractionDLL\obj\Debug\netstandard2.0\SubstractionDLL.pdb

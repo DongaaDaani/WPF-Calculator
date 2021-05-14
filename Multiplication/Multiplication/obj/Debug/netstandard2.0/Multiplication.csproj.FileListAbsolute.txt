@@ -1,0 +1,9 @@
+C:\Users\Donga Dániel\Desktop\Dasch beadando\Multiplication\Multiplication\bin\Debug\netstandard2.0\Multiplication.deps.json
+C:\Users\Donga Dániel\Desktop\Dasch beadando\Multiplication\Multiplication\bin\Debug\netstandard2.0\Multiplication.dll
+C:\Users\Donga Dániel\Desktop\Dasch beadando\Multiplication\Multiplication\bin\Debug\netstandard2.0\Multiplication.pdb
+C:\Users\Donga Dániel\Desktop\Dasch beadando\Multiplication\Multiplication\obj\Debug\netstandard2.0\Multiplication.csprojAssemblyReference.cache
+C:\Users\Donga Dániel\Desktop\Dasch beadando\Multiplication\Multiplication\obj\Debug\netstandard2.0\Multiplication.AssemblyInfoInputs.cache
+C:\Users\Donga Dániel\Desktop\Dasch beadando\Multiplication\Multiplication\obj\Debug\netstandard2.0\Multiplication.AssemblyInfo.cs
+C:\Users\Donga Dániel\Desktop\Dasch beadando\Multiplication\Multiplication\obj\Debug\netstandard2.0\Multiplication.csproj.CoreCompileInputs.cache
+C:\Users\Donga Dániel\Desktop\Dasch beadando\Multiplication\Multiplication\obj\Debug\netstandard2.0\Multiplication.dll
+C:\Users\Donga Dániel\Desktop\Dasch beadando\Multiplication\Multiplication\obj\Debug\netstandard2.0\Multiplication.pdb

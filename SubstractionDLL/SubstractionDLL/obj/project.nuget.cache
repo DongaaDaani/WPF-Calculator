@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bofdwSCaGVbTgbtxOlbG3kThJjGgT/dywqMMLaQsEooYXc7IF2eB2w6KUP78fkYI28HnnZPhfVQiveC6gR0XrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Donga Dániel\\Desktop\\Dasch beadando\\SubstractionDLL\\SubstractionDLL\\SubstractionDLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Donga Dániel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Donga Dániel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

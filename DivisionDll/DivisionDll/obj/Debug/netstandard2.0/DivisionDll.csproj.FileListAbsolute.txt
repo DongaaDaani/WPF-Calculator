@@ -1,0 +1,9 @@
+C:\Users\Donga Dániel\Desktop\Dasch beadando\DivisionDll\DivisionDll\bin\Debug\netstandard2.0\DivisionDll.deps.json
+C:\Users\Donga Dániel\Desktop\Dasch beadando\DivisionDll\DivisionDll\bin\Debug\netstandard2.0\DivisionDll.dll
+C:\Users\Donga Dániel\Desktop\Dasch beadando\DivisionDll\DivisionDll\bin\Debug\netstandard2.0\DivisionDll.pdb
+C:\Users\Donga Dániel\Desktop\Dasch beadando\DivisionDll\DivisionDll\obj\Debug\netstandard2.0\DivisionDll.csprojAssemblyReference.cache
+C:\Users\Donga Dániel\Desktop\Dasch beadando\DivisionDll\DivisionDll\obj\Debug\netstandard2.0\DivisionDll.AssemblyInfoInputs.cache
+C:\Users\Donga Dániel\Desktop\Dasch beadando\DivisionDll\DivisionDll\obj\Debug\netstandard2.0\DivisionDll.AssemblyInfo.cs
+C:\Users\Donga Dániel\Desktop\Dasch beadando\DivisionDll\DivisionDll\obj\Debug\netstandard2.0\DivisionDll.csproj.CoreCompileInputs.cache
+C:\Users\Donga Dániel\Desktop\Dasch beadando\DivisionDll\DivisionDll\obj\Debug\netstandard2.0\DivisionDll.dll
+C:\Users\Donga Dániel\Desktop\Dasch beadando\DivisionDll\DivisionDll\obj\Debug\netstandard2.0\DivisionDll.pdb

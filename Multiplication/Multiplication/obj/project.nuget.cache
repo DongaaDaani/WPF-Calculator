@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "alyuUrDGV8vTPDEz3hyXiibLQbyexWxegA1ZfM+YaQF5CG/IwaKEuRBLnkXxWgTAMMG4QyHQ3lS8NAWX2qotHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Donga Dániel\\Desktop\\Dasch beadando\\Multiplication\\Multiplication\\Multiplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Donga Dániel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Donga Dániel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
